@@ -11,6 +11,7 @@
 + Jdk 1.8.212
 + Hadoop 3.3.0
 + Hive 3.1.2
++ MySQL 8.0.21
 + Intellij idea 2020.2
 
 技术联系： 896912564@qq.com
