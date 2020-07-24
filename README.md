@@ -12,3 +12,5 @@
 + Hadoop 3.3.0
 + Hive 3.1.2
 + Intellij idea 2020.2
+
+技术联系： 896912564@qq.com
